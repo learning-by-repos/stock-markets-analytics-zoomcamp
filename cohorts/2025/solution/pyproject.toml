@@ -1,7 +1,10 @@
 [project]
 name = "solution"
 version = "0.1.0"
-description = "Add your description here"
+description = "stock-markets-analytics-zoomcamp 2025 cohort solutions"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "lxml>=5.4.0",
+    "pandas>=2.2.3",
+]
